@@ -3,14 +3,14 @@
     {
       "id": 1,
       "username": "gertrudis",
-      "avatar": "https://reqres.in/img/faces/1-image.jpg",
+      "userAvatar": "https://reqres.in/img/faces/1-image.jpg",
       "email": "gtatterton0@gmail.com",
       "password": "pikachu"
     },
     {
       "id": 2,
       "username": "manohar",
-      "avatar": "https://reqres.in/img/faces/2-image.jpg",
+      "userAvatar": "https://reqres.in/img/faces/2-image.jpg",
       "email": "manohar@gmail.com",
       "password": "raichu"
     }
